@@ -14,3 +14,5 @@ Reference
 
 BLEU: a Method for Automatic Evaluation of Machine Translation
 Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu
+
+[![Run on Repl.it](https://repl.it/badge/github/vikasnar/Bleu)](https://repl.it/github/vikasnar/Bleu)
